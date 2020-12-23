@@ -30,15 +30,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aris187id/AR15BOT.git"
+    "url": "https://github.com/ANDHIKA99195/NOLEP-BOT.git"
   },
   "keywords": [
     "k"
   ],
   "author": "Abdul Muttaqin",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aris187id/AR15BOT/issues"
+  "bugs": {"
+}
+
+    "url": "https://github.com/ANDHIKA99195/NOLEP-BOT/issues"
   },
-  "homepage": "https://github.com/aris187id/AR15BOT#readme"
+  "homepage": "https://github.com/ANDHIKA99195/NOLEP-BOT#readme"
 }
